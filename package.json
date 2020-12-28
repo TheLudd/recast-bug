@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "acorn": "^8.0.4",
+    "acorn-jsx": "^5.3.1",
+    "recast": "^0.20.4"
+  }
+}
